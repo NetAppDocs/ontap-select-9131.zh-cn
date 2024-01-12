@@ -2099,7 +2099,6 @@ ONTAP Select集群</block>
   <block id="209d48c97092139c09f12b8b898b3ebb" category="cell">永久（无需续订）</block>
   <block id="fdad6dbf8e8406dac26765af9059a3a1" category="cell">根据购买情况确定固定期限（需要续订）</block>
   <block id="20e5e85bddb25cf1cf39977f4a5b8f1f" category="cell">数据聚合的租约期限</block>
-  <block id="6aade83f8151a6756008a80c389bef65" category="cell">不适用于一小时到七天</block>
   <block id="a051cb6fe36d0d57186040136f51ded4" category="cell">节点序列号</block>
   <block id="754352c17de30934f31734f144b3d9d0" category="summary">如果您要在决定购买之前评估 ONTAP Select ，可以使用评估版许可证。评估版许可证随 ONTAP Select Deploy 管理实用程序一起提供，并在评估版部署中自动应用于每个 ONTAP Select 节点。</block>
   <block id="8b3398557c7fb55b263bf52bece82b68" category="doc">评估版许可证</block>
@@ -3826,4 +3825,20 @@ RAID SyncMirror (RSM)</block>
   <block id="1c5ffa58ac07641f5cec5616c07b2ba2" category="sidebar">添加 ONTAP Select 映像</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">删除 ONTAP Select 映像</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">恢复双节点集群的 Deploy</block>
+  <block id="f24ce81f056d5acd59788df7f5ab36a1" category="list-text">FlexCache</block>
+  <block id="aae155889087fca42368d9fab8b54ee6" category="list-text">NDMP</block>
+  <block id="e681a3b45989b468533c4b90ee960bf9" category="cell">不适用</block>
+  <block id="7ce9d272dad1050f5d215fea78fec004" category="cell">一小时到七天</block>
+  <block id="1106adf8812d775cf27b79c3606184f6" category="cell">九位数、等于许可证序列号</block>
+  <block id="cda405d8561cd2797065f70348fbe747" category="cell">二十位数、由License Manager生成</block>
+  <block id="db5eb84117d06047c97c9a0191b5fffe" category="cell">支持</block>
+  <block id="d7b5ad2c890d9e01c658dc9e1cc80af5" category="cell">附加项和有时限的</block>
+  <block id="b055659deac2e10b8eadf9bae15af191" category="cell">包含并共同命名</block>
+  <block id="2b2fba693aacdb90002ef3efdb1f458b" category="cell">许可证类型</block>
+  <block id="7c8735b3789d1d371da9c168d892b5b2" category="cell">标准、高级、高级XL</block>
+  <block id="f6f75165e8287838950283461281ea99" category="cell">提供评估许可证</block>
+  <block id="c8ce06302aadd8032e956b943dce085c" category="cell">评估到生产升级</block>
+  <block id="cfc60e5db5da2e3856f4ae65f1b4493b" category="cell">ONTAP Select虚拟机大小调整(小到中、中到大)</block>
+  <block id="5afd324114e926d9bb06b382e5c6f40e" category="cell">强制：许可证已过期</block>
+  <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">是(无宽限期)</block>
 </blocks>
