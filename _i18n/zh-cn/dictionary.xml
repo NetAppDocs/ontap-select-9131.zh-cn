@@ -288,7 +288,6 @@
   <block id="18c27fdda3b31de582a5c418705a0eab" category="paragraph">创建集群可能需要长达 30 分钟的时间。</block>
   <block id="aa28e7538205e834e26c77f5630f8893" category="list-text">监控多步集群创建过程，以确认集群已成功创建。</block>
   <block id="037cb8cf634438a48c4a376dd2eaecea" category="paragraph">此页面会定期自动刷新。</block>
-  <block id="d4f87fedecd0cb118e567859f3b4f8b0" category="admonition">如果集群创建操作已启动、但未能完成、则您定义的ONTAP管理密码可能未注册。在这种情况下，您可以使用 admin 帐户的密码 _changeme123_ 访问 ONTAP Select 集群的管理界面。</block>
   <block id="c29c0fa60d66b44a13904899d8712c68" category="open-title">多节点集群</block>
   <block id="1c9615c8466b4b5438d388b4200a58b4" category="list-text">如果显示*Welcome to ONTAP Select (欢迎使用Windows *)弹出窗口，请确认您已满足配置前提条件，然后单击*OK*(确定)。</block>
   <block id="736cb4ef7019568859d8e044e044c906" category="list-text">在 * 入门 * 页面上，单击 * 上传 * 并从本地工作站中选择一个许可证，然后单击 * 打开 * 上传此许可证。重复以添加第二个许可证。</block>
@@ -3841,4 +3840,5 @@ RAID SyncMirror (RSM)</block>
   <block id="cfc60e5db5da2e3856f4ae65f1b4493b" category="cell">ONTAP Select虚拟机大小调整(小到中、中到大)</block>
   <block id="5afd324114e926d9bb06b382e5c6f40e" category="cell">强制：许可证已过期</block>
   <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">是(无宽限期)</block>
+  <block id="f1309e50d04ac13d06dbb8ce9e13947d" category="admonition">如果集群创建操作已启动、但未能完成、则您定义的ONTAP管理密码可能不会应用。如果发生这种情况、请联系NetApp技术支持以获得帮助。</block>
 </blocks>
