@@ -571,12 +571,6 @@ ONTAP Select Deploy实用程序创建的日志文件</block>
   <block id="bbbb96898e430d9cf7e061ad70ad17ad" category="list-text">提供 vCenter 凭据并选择插件版本。</block>
   <block id="9909e23ede42f2318acada35ac10bd3e" category="list-text">单击 * 注册 * 。</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
-  <block id="b56253bf92505bda20b38657c778bccf" category="doc">此处为页面标题</block>
-  <block id="5d9328ee3f628e51f1a4f871ccff7313" category="paragraph">使用此模板处理文章、主题、无论您将其称为什么。index.adoc文件没有正确的文章页面关键字、将其用作模板可能会在以后出现发生原因发布问题。</block>
-  <block id="26739de98ff2a207a5c145caf27c2508" category="admonition">请在初始发布之前删除此文件、因为即使此文件未链接到边栏、它也会被发布。创建几篇文章后、您可以将其用作入门。</block>
-  <block id="38b255c5af258b1f086fb7c9aa4f252c" category="paragraph">如果您的文章将位于内容子文件夹中、则需要对上面显示的表示法进行两项调整：</block>
-  <block id="df25e29acec650a07b41041946158355" category="list-text"><block ref="abc9d0bfc8d5688ddd4babf6a5402ee4" prefix="" category="inline-code"></block></block>
-  <block id="97df5ffadc97296dc727ffddf2d2e1fe" category="list-text"><block ref="ff695bd1637208b4929c7ae2085cd551" prefix="" category="inline-code"></block></block>
   <block id="f003eee578389a046f25dba6e783a672" category="summary">ONTAP Select 非常适合支持组织中的一个或多个私有云。一个常见的使用情形是，为基于商用服务器构建的私有云提供存储服务。</block>
   <block id="fb4b04f0bbd3011e95882612761e5f4a" category="doc">私有云和数据中心</block>
   <block id="cc2d9bf42776eb79fe1ddb4e755eff01" category="paragraph">与公有 云一样，私有云也提供了灵活性以及快速设置和卸载。此外，私有云还可以提高安全性和控制力。</block>
@@ -3841,4 +3835,5 @@ RAID SyncMirror (RSM)</block>
   <block id="5afd324114e926d9bb06b382e5c6f40e" category="cell">强制：许可证已过期</block>
   <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">是(无宽限期)</block>
   <block id="f1309e50d04ac13d06dbb8ce9e13947d" category="admonition">如果集群创建操作已启动、但未能完成、则您定义的ONTAP管理密码可能不会应用。如果发生这种情况、请联系NetApp技术支持以获得帮助。</block>
+  <block id="b5150f2681f3eb5a5b6aab4cbdadad34" category="paragraph">虚拟NAS (vNAS)部署支持虚拟SAN (VSAN)上的ONTAP Select集群、某些HCI产品以及外部阵列类型的数据存储库。这些配置的底层基础架构可提供数据存储库故障恢复能力。</block>
 </blocks>
