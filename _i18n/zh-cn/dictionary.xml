@@ -3836,4 +3836,5 @@ RAID SyncMirror (RSM)</block>
   <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">是(无宽限期)</block>
   <block id="f1309e50d04ac13d06dbb8ce9e13947d" category="admonition">如果集群创建操作已启动、但未能完成、则您定义的ONTAP管理密码可能不会应用。如果发生这种情况、请联系NetApp技术支持以获得帮助。</block>
   <block id="b5150f2681f3eb5a5b6aab4cbdadad34" category="paragraph">虚拟NAS (vNAS)部署支持虚拟SAN (VSAN)上的ONTAP Select集群、某些HCI产品以及外部阵列类型的数据存储库。这些配置的底层基础架构可提供数据存储库故障恢复能力。</block>
+  <block id="8e59a8dddb8fd9611be1f2b3aca8c4fa" category="admonition">ONTAP Select 9.12.1及更高版本现在支持将SVM DR作为源、最多具有16个关系。SVM DR支持仅限于使用源ONTAP版本+2、例如9.12.1到9.14.1。</block>
 </blocks>
