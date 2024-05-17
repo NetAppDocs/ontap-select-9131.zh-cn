@@ -1,5 +1,9 @@
 ---
 indexpage:
+  title: ONTAP Select 文档
+  summary: NetApp ONTAP Select 是一款软件定义的存储设备，您可以在运行 VMware ESXi 虚拟机管理程序的各种商用硬件服务器上部署。它可以为您提供构建灵活且可扩展的私有云基础架构所需的灵活性。此站点包含ONTAP
+    Select 9.13.1.的文档。
+  keywords: ontap select, storage appliance, upgrade, deployment, ontap, 9.13.1
   lead: NetApp ONTAP Select 是一款软件定义的存储设备，您可以在运行 VMware ESXi 虚拟机管理程序的各种商用硬件服务器上部署。它可以为您提供构建灵活且可扩展的私有云基础架构所需的灵活性。此站点包含ONTAP
     Select 9.13.1.的文档。
   tiles:
