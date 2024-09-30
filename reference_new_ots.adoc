@@ -31,7 +31,7 @@ NetApp会定期更新ONTAP Select 、为您提供新功能和增强功能。
 ONTAP Select 9.13.1提供了几项新功能和改进功能。
 
 支持基于TCP的NVMe:: 升级到ONTAP Select 9.13.1时、您必须具有新许可证才能支持基于TCP的NVMe。首次从9.131版部署ONTAP Select时、系统会自动包含此许可证。
-已更新VMware ESXi支持:: 从ONTAP 9.131开始、硬件版本4及更高版本支持VMware ESXi 8.0 GA (内部版本20513097)。
+已更新VMware ESXi支持:: 从ESXi .13.1开始、ONTAP 9 8.0.1 GA (内部版本20513097)在硬件版本4及更高版本中受支持。
 更新了ONTAP Select Deploy支持:: 自2024年4月起、ONTAP Select Deploy 9.13.1不再适用于NetApp 支持站点。如果您运行的是ONTAP Select Deploy 9.13.1,则应尽快升级到ONTAP Select Deploy 9.14.1P2。有关详细信息，请参见 link:https://library.netapp.com/ecm/ecm_download_file/ECMLP2886733["ONTAP Select 9.14.1发行说明"^]。
 
 
