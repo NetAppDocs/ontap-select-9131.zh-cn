@@ -2658,7 +2658,6 @@ ONTAP Select集群</block>
   <block id="bb4535bc16c1e303453a76a7d6669910" category="paragraph"><block ref="bb4535bc16c1e303453a76a7d6669910" category="inline-image-macro-rx" type="image"></block></block>
   <block id="83aee6fb82bd87d789e0851835b555f8" category="admonition">NVRAM 分区将在其自己的 VMDK 上分隔。该 VMDK 使用 ESX 6.5 或更高版本中提供的 vNVME 驱动程序进行连接。对于使用软件 RAID 的 ONTAP Select 安装来说，此更改最重要，因为这些安装不会从 RAID 控制器缓存中受益。</block>
   <block id="20d1ab0feefc64acee2b330a6d8db177" category="summary">NetApp ONTAP Select 是一款软件定义的存储设备，您可以在运行 VMware ESXi 虚拟机管理程序的各种商用硬件服务器上部署。它可以为您提供构建灵活且可扩展的私有云基础架构所需的灵活性。此站点包含ONTAP Select 9.13.1.的文档。</block>
-  <block id="7436b418bed093768e360d32105591d2" category="doc">ONTAP Select 文档</block>
   <block id="a451fb0a81dc4fb9e6df8ff3f0cd6380" category="summary">您可以在远程办公室 / 分支机构（ ROBO ）环境中部署 ONTAP Select 。在规划 ROBO 部署时，您必须选择支持您的目标的配置。</block>
   <block id="e629f0dfc57ffa98b8aabae83c3e5032" category="doc">远程办公室和分支机构部署</block>
   <block id="1cfe009dafaa293a83a8a143e8aeb868" category="paragraph">在 ROBO 环境中部署 ONTAP Select 时，可以使用两种主要配置。</block>
@@ -3858,4 +3857,5 @@ RAID SyncMirror (RSM)</block>
   <block id="9b9568babf180c232b393ba5f95ff4c3" category="paragraph">如果某个容量池订阅失败、系统会首先向您发出警告、但在30天后、如果系统关闭、它将不会重新启动、直到在Deploy服务器上安装更新后的订阅为止。</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1及更高版本现在支持将SVM DR同时用作源和目标、并且最多具有16个关系。SVM DR支持仅限于使用源ONTAP版本+2。例如、ONTAP Select 9.12.1源可以连接到目标ONTAP 9.12.1、9.13.1或9.14.1。</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">从ESXi .13.1开始、ONTAP 9 8.0.1 GA (内部版本20513097)在硬件版本4及更高版本中受支持。</block>
+  <block id="f630830f3860fe406fda620cc5421cf3" category="sidebar">ONTAP Select 9.13.1文档</block>
 </blocks>
